@@ -36,7 +36,7 @@ This project is a fun way to see how computers can “see” faces, and it’s a
 
 **Clone the repo**  
 ```bash
-git clone https://github.com/sristanka-adhikary/Face-Detector.git
+git clone https://github.com/sristanka/Face-Detector.git
 ````
 **Install dependencies**
 ```bash
