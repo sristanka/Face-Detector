@@ -28,7 +28,7 @@ This project is a fun way to see how computers can “see” faces, and it’s a
 
 ## Demo
 
-*(Add a short GIF or screenshot showing your webcam detecting face, eyes, and smile here)*  
+  
 
 ---
 
