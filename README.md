@@ -48,52 +48,47 @@ python facedetect.py
 ```
 Then, your webcam will turn on and detect your face, eyes, and smile in real-time.
 
-How It Works
+---
 
-Captures live video from your webcam.
+## How It Works
 
-Converts each frame to grayscale for faster detection.
+- Captures **live video** from your webcam.  
+- Converts each frame to **grayscale** for faster detection.  
+- Detects **faces** with a Haar cascade.  
+- Detects **eyes** in the **upper half of the face**.  
+- Detects **smile/mouth** inside the face.  
+- Draws colored rectangles around each feature:  
+  - **Face** → Green  
+  - **Eyes** → Blue  
+  - **Smile** → Yellow  
 
-Detects faces with a Haar cascade.
+---
 
-Detects eyes in the upper half of the face.
+## Technologies Used
 
-Detects smile/mouth inside the face.
+- Python  
+- OpenCV (Computer Vision)  
+- Haar Cascade Classifiers  
 
-Draws colored rectangles around each feature:
+---
 
-Face → Green
+## Future Improvements
 
-Eyes → Blue
+- Add **fun filters** like sunglasses or hats.  
+- Detect **facial landmarks** for more precise feature tracking.  
+- Auto **screenshot when someone smiles**.  
+- Turn it into a **GUI application** for easier use.  
 
-Smile → Yellow
+---
 
-Technologies Used
+## Author
 
-Python
+**SRISTANKA ADHIKARY** – 2nd-year Biotechnology BTech student exploring **coding, AI, and computer vision**.  
 
-OpenCV (Computer Vision)
+---
 
-Haar Cascade Classifiers
+## License
 
-Future Improvements
-
-Add fun filters like sunglasses or hats.
-
-Detect facial landmarks for more precise feature tracking.
-
-Auto screenshot when someone smiles.
-
-Turn it into a GUI application for easier use.
-
-Author
-
-SRISTANKA ADHIKARY – 2nd-year Biotechnology BTech student exploring coding, AI, and computer vision.
-
-License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 
