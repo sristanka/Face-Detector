@@ -36,7 +36,7 @@ How to Use
 
 Clone the repo
 
-git clone https://github.com/yourusername/Face-Detector.git
+git clone https://github.com/sristanka-adhikary/Face-Detector.git
 
 
 Install dependencies
@@ -91,9 +91,8 @@ Turn it into a GUI application for easier use.
 
 Author
 
-Phoenixeee – 2nd-year Biotechnology BTech student exploring coding, AI, and computer vision.
+SRISTANKA ADHIKARY – 2nd-year Biotechnology BTech student exploring coding, AI, and computer vision.
 
 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+This project is licensed under the MIT License – see the LICENSE file for details.
